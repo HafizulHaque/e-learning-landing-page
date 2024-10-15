@@ -21,7 +21,7 @@
 
 ### Mobile View
 
-![Mobile Design](https://raw.githubusercontent.com/HafizulHaque/e-learning-landing-page/main/design/mobile-.jpg)
+![Mobile Design](https://raw.githubusercontent.com/HafizulHaque/e-learning-landing-page/main/design/design-mobile.jpg)
 
 
 
